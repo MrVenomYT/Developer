@@ -1,5 +1,3 @@
-# These are supported funding model platforms
-
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [venom-hun5]
-patreon: # DevVenom
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://www.patreon.com/DevVenom']
+github: [venom-hun5]
+patreon: MrVenom
+custom: ["https://discord.gg/FTbJmrVq5t", discord.com]
