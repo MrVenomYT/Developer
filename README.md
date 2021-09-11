@@ -62,3 +62,5 @@ To get more help on the Discord.js go check out the [Discord.js README](https://
 
 ## Our SUpport Server
 [Venomous](https://discord.gg/FTbJmrVq5t)
+## Donate us via Patreons
+[Patreons](https://www.patreon.com/DevVenom)
